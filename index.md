@@ -103,14 +103,14 @@ Mabel Myers Memorial Scholarship
   
 - Merit-based scholarship for students in Biology
   
-- San Diego State University
+- San Diego State University, San Diego, CA
   
   
 `Aug. 2021`
   
 Jordan D. Corvin Memorial Scholarship
   
-- Recognition for graduate students who have presented original research at a recognized scientific meeting
+- For graduate students who have presented original research at a recognized scientific meeting
   
 - San Diego State University
   

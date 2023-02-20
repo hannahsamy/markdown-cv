@@ -8,7 +8,7 @@ Graduate Student in Ecology
 
 <div id="webaddress">
 <a href="hsamy2254@sdsu.edu">hsamy2254@sdsu.edu</a>
-
+</div>
   
 ## Education
   

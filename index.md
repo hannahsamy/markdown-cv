@@ -13,16 +13,16 @@ hsamy2254@sdsu.edu
   
 `2020 - Present`
   
-M.S. in Biological Sciences, Concentration in Ecology
+__M.S. in Biological Sciences, Concentration in Ecology__
   
-- San Diego State University
+San Diego State University
  
   
 `2015-2019`
   
-B.S. in Biological Sciences
+__B.S. in Biological Sciences__
   
-- University of California Irvine
+University of California Irvine
 
   
 ## Work Experience
@@ -30,49 +30,49 @@ B.S. in Biological Sciences
   
 `April 2021 - Present`
   
-Habitat Conservancy Intern
+__Habitat Conservancy Intern__
   
-San Diego Habitat Conservancy, San Diego, CA
+__San Diego Habitat Conservancy, San Diego, CA__
   
-- Monitor general conditions, wildlife, and vegetation across preserves in San Diego County
+Monitor general conditions, wildlife, and vegetation across preserves in San Diego County
   
-- Promote habitat recovery and health by hand-weeding invasives, establishing native plants, and removing litter
+Promote habitat recovery and health by hand-weeding invasives, establishing native plants, and removing litter
   
-- Prepare annual reports that documented the conservatory’s activities and future goals for management
+Prepare annual reports that documented the conservatory’s activities and future goals for management
   
-- Utilize ESRI applications to create map layouts of preserves 
+Utilize ESRI applications to create map layouts of preserves 
   
-- Engage in community education by developing social media content related to the organization’s projects and local flora and fauna
+Engage in community education by developing social media content related to the organization’s projects and local flora and fauna
 
   
 `Aug 2020 - Present`
   
-Biology Teaching Assistant
+__Biology Teaching Assistant__
   
-San Diego State University, San Diego, CA
+__San Diego State University, San Diego, CA__
   
-- Develop lesson plans, weekly lectures, assignments, and exams based on course material
+Develop lesson plans, weekly lectures, assignments, and exams based on course material
   
-- Evaluate students’ laboratory work and reports and provide constructive feedback to facilitate their learning
+Evaluate students’ laboratory work and reports and provide constructive feedback to facilitate their learning
   
-- Provide weekly office hours for students in need of tutoring or assistance
+Provide weekly office hours for students in need of tutoring or assistance
   
-- Lead discussion groups on scientific literature relevant to students’ coursework
+Lead discussion groups on scientific literature relevant to students’ coursework
 
   
 `June 2018 - June 2019`
   
-Undergraduate Research Assistant
+__Undergraduate Research Assistant__
   
-University of California Irvine, Irvine, CA
+__University of California Irvine, Irvine, CA__
   
-- Prepared soil samples and necessary reagents for processing
+Prepared soil samples and necessary reagents for processing
   
-- Quantified enzymatic activity of soil microbial communities using fluorometry 
+Quantified enzymatic activity of soil microbial communities using fluorometry 
   
-- Statistically analyzed and interpreted quantitative data 
+Statistically analyzed and interpreted quantitative data 
   
-- Developed an experimental protocol to evaluate the relationship between temperature and microbial enzymatic activity
+Developed an experimental protocol to evaluate the relationship between temperature and microbial enzymatic activity
 
   
 ## Presentations
@@ -82,14 +82,14 @@ University of California Irvine, Irvine, CA
   
 *Fungal Enzymatic Response to Climate Change in a Southern California Grassland*
   
-- American Association for the Advancement of Science, Washington D.C.
+American Association for the Advancement of Science, Washington D.C.
   
   
 `Dec. 2018`
   
  *Fungal Enzymatic Response to Climate Change in a Southern California Grassland*
   
-- Undergraduate Research Symposium, University of California Irvine
+Undergraduate Research Symposium, University of California Irvine
 
   
 ## Recognitions and Awards
@@ -97,36 +97,36 @@ University of California Irvine, Irvine, CA
   
 `Oct. 2022`
   
-Mabel Myers Memorial Scholarship
+__Mabel Myers Memorial Scholarship__
   
-- Merit-based scholarship for students in Biology
+Merit-based scholarship for students in Biology
   
-- San Diego State University, San Diego, CA
+San Diego State University, San Diego, CA
   
   
 `Aug. 2021`
   
-Jordan D. Corvin Memorial Scholarship
+__Jordan D. Corvin Memorial Scholarship__
   
-- For graduate students who have presented original research at a recognized scientific meeting
+For graduate students who have presented original research at a recognized scientific meeting
   
-- San Diego State University
+San Diego State University
   
   
 `Aug. 2020`
   
-Biology Scholarship 
+__Biology Scholarship__ 
   
-- Merit-based scholarship for students in Biology
+Merit-based scholarship for students in Biology
   
-- San Diego State University
+San Diego State University
   
   
 `Fall 2018 - Spring 2019`
   
-Dean's List
+__Dean's List__
   
-- University of California Irvine
+University of California Irvine
 
 
 

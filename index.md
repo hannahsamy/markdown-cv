@@ -4,14 +4,12 @@ title: Hannah Samy's CV
 ---
 # Hannah Samy
 
-Graduate Student in Ecology
-
-hsamy2254@sdsu.edu
+hjsamy25@gmail.com
   
 ## Education
   
   
-`2020 - Present`
+`2020 - 2023`
   
 __M.S. in Biological Sciences, Concentration in Ecology__
   
@@ -28,7 +26,7 @@ University of California Irvine
 ## Work Experience
 
   
-`April 2021 - Present`
+`April 2021 - May 2023`
   
 __Habitat Conservancy Intern__
   
@@ -45,7 +43,7 @@ Utilize ESRI applications to create map layouts of preserves
 Engage in community education by developing social media content related to the organization’s projects and local flora and fauna
 
   
-`Aug 2020 - Present`
+`Aug 2020 - May 2023`
   
 __Biology Teaching Assistant__
   
@@ -73,6 +71,13 @@ Quantified enzymatic activity of soil microbial communities using fluorometry
 Statistically analyzed and interpreted quantitative data 
   
 Developed an experimental protocol to evaluate the relationship between temperature and microbial enzymatic activity
+
+  
+## Certifications
+
+__Professional GIS Certificate__
+
+ __Michigan State University, East Lansing, MI__ 
 
   
 ## Presentations
